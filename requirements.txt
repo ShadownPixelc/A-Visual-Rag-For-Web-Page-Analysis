@@ -1,0 +1,7 @@
+streamlit
+firecrawl-py
+sentence-transformers
+openai
+python-dotenv
+bcrypt
+numpy
